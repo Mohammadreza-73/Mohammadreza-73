@@ -1,6 +1,5 @@
 ﻿## Hi, I'm Mohammadreza 👋
 [![Gmail Badge](https://img.shields.io/badge/-mohammadreza.rahimi1373@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohammadreza.rahimi1373@gmail.com)](mailto:mohammadreza.rahimi1373@gmail.com)
-[![Yahoo Badge](https://img.shields.io/badge/-mohammadreza.rahimi93@yahoo.com-blueviolet?style=flat&logo=Yahoo&logoColor=white&link=mailto:mohammadreza.rahimi93@yahoo.com)](mailto:mohammadreza.rahimi93@yahoo.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Mohammadreza%20Rahimi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahimi73/)](https://www.linkedin.com/in/rahimi73/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/Mohammadreza_73/)](https://t.me/Mohammadreza_73/)
 
