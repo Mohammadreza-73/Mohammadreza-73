@@ -5,13 +5,13 @@ My primary experience is with PHP and Laravel, including both modern application
 I enjoy solving backend problems, improving existing codebases, designing clean APIs, and working with systems where security and reliability matter.
 
 ### 🔧 What I work with
- - Backend: PHP, Laravel, RESTful APIs
- - Databases: MySQL, PostgreSQL, Redis, Elasticsearch
- - Infrastructure: Docker, Linux, Windows Server
- - Security: OWASP, PKI, digital certificates
- - Frontend: HTML, CSS, Bootstrap, JavaScript
- - Test: Unit test, Feature test, TDD
- - Currently exploring: Go, software architecture, DDD, design patterns, and modern backend practices
+ - **Backend:** PHP, Laravel, RESTful APIs
+ - **Databases:** MySQL, PostgreSQL, Redis, Elasticsearch
+ - **Infrastructure:** Docker, Linux, Windows Server
+ - **Security:** OWASP, PKI, digital certificates
+ - **Frontend:** HTML, CSS, Bootstrap, JavaScript
+ - **Test:** Unit test, Feature test, TDD, Stress test
+ - **Currently exploring:** Go, software architecture, DDD, design patterns, and modern backend practices
 
 ### 🚀 What I'm interested in
  - Backend architecture and clean, maintainable code
